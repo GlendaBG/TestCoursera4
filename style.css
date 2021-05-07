@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(205, 177, 231);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
+    text-align: center;
+    border: 5px solid black;
+    width: 80%;
+    margin: 7% auto;
+
+}
